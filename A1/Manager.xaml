@@ -6,9 +6,26 @@
 
     <ContentPage.Content>
         <AbsoluteLayout>
-            <Button Text="History" TextColor="Blue" BackgroundColor="HotPink" AbsoluteLayout.LayoutBounds="0.5,0.4,110,50" AbsoluteLayout.LayoutFlags="PositionProportional" Clicked="History_Clicked"/>
-            <Button Text="Restock" TextColor="Blue" BackgroundColor="HotPink" AbsoluteLayout.LayoutBounds="0.5,0.5,110,50" AbsoluteLayout.LayoutFlags="PositionProportional" Clicked="Restock_Clicked"/>
-            <Button Text="Add New Product" TextColor="Blue" BackgroundColor="HotPink" AbsoluteLayout.LayoutBounds="0.5,0.6,110,50" AbsoluteLayout.LayoutFlags="PositionProportional" Clicked="AddItem_Clicked"/>
+            <Button Text="History" 
+                    TextColor="Blue" 
+                    BackgroundColor="HotPink" 
+                    AbsoluteLayout.LayoutBounds="0.5,0.4,110,50" 
+                    AbsoluteLayout.LayoutFlags="PositionProportional" 
+                    Clicked="History_Clicked"/>
+            
+            <Button Text="Restock" 
+                    TextColor="Blue" 
+                    BackgroundColor="HotPink" 
+                    AbsoluteLayout.LayoutBounds="0.5,0.5,110,50" 
+                    AbsoluteLayout.LayoutFlags="PositionProportional" 
+                    Clicked="Restock_Clicked"/>
+            
+            <Button Text="Add New Product" 
+                    TextColor="Blue" 
+                    BackgroundColor="HotPink" 
+                    AbsoluteLayout.LayoutBounds="0.5,0.6,110,50" 
+                    AbsoluteLayout.LayoutFlags="PositionProportional" 
+                    Clicked="AddItem_Clicked"/>
         </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>
