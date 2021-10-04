@@ -1,3 +1,3 @@
 # Calculator-App-A1
 
-Calculator made using Xamarin Forms.
+Cash register app made using Xamarin Forms.
